@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+imput{
+    height: 20px;
+    width: 10px;
+}
+
+body {
+    background-color: rgb(168, 168, 168);
+}
+
+h2{
+    padding-bottom: 20px;
+    font-family:monospace;
+    font-size: 45px;
+}
+.Vista {
+    background-color: aqua;
+    margin: 100px;
+    padding: 5%;
+    width: 500px;
+
+}
+
+.resultado {
+    background-color: blueviolet;
+    padding: 20px;
+}
